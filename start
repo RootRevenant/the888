@@ -1,2 +1,0 @@
-tasks:
-  - init: echo "Workspace is ready!"
